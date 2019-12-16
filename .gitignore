@@ -1,3 +1,8 @@
 *~*
 *.msh
 *.out
+build-square
+mortar-1
+node-face
+square
+square_coarse
